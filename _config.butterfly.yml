@@ -646,7 +646,7 @@ aside:
       link: https://github.com/
   card_announcement:
     enable: true
-    content: 遇到困难摆大烂
+    content: 欢迎投稿
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
