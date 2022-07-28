@@ -111,6 +111,6 @@ aplayer:
   meting: true
 
 search:
-  path: search.xml
+  path: search.json
   field: post
   content: true
