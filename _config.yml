@@ -109,3 +109,8 @@ deploy:
 aplayer:
   asset_inject: false
   meting: true
+
+search:
+  path: search.xml
+  field: post
+  content: true
