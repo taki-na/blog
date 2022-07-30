@@ -36,8 +36,8 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  # fab fa-github: https://github.com/xxxxx || Github
-  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
+  fab fa-github: https://github.com/wutao-xuemei || Github
+  fas fa-envelope: mailto:laozheng@laozheng.cf || Email
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系統
