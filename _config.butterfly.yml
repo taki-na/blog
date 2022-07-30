@@ -88,7 +88,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: /img/bg.png
+index_img: http://img.xjh.me/random_img.php?type=bg&ctype=acg&return=302
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: /img/bg.png
