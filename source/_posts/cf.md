@@ -17,19 +17,13 @@ toc:
 toc_number:
 toc_style_simple:
 aplayer:
----                     
+---
 
-**首发于：** [**https://t.me/ShareCentre**](https://t.me/ShareCentre)
-
-**并同步在个人博客**[**https://diary.quner.cloud**](https://diary.quner.cloud/)**中。**
-
-  
-
-你说，什么是Cloudflare？
+{% note blue no-icon %}
+**转载自https://cn.quner.icu:8443/2022/07/22/%e4%bd%a0%e8%af%b4%ef%bc%8c%e4%bb%80%e4%b9%88%e6%98%afcloudflare%ef%bc%9f/**
+{% endnote %}
 
 ![](https://s2.loli.net/2022/07/23/fKZ8FirHowlSL6U.png)
-
-  
 
 如果你刚开始接触Web，很多教程文档都会推荐你”套CF“。而当你在群里抱怨买的VPS线路不好，源站（存放Web文件）连接不稳定时，群友们肯定会让你”套个CF“。
 
