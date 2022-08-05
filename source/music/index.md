@@ -10,7 +10,7 @@ type: "music"
 
 ---
 
-{% note pink 'fas fa-music' simple %}
+{% note pink 'fas fa-music' %}
 纸上魔法使OST
 {% endnote %}
 
@@ -18,7 +18,7 @@ type: "music"
 
 ---
 
-{% note orange 'fas fa-music' simple %}
+{% note orange 'fas fa-music' %}
 我喜欢的音乐
 {% endnote %}
 
@@ -26,7 +26,7 @@ type: "music"
 
 ---
 
-{% note blue 'fas fa-music' simple %}
+{% note blue 'fas fa-music' %}
 《死亡搁浅》的一些配乐
 {% endnote %}
 
@@ -34,7 +34,7 @@ type: "music"
 
 ---
 
-{% note white 'fas fa-music' simple %}
+{% note white 'fas fa-music' %}
 《地铁：离去》的一些配乐
 {% endnote %}
 
